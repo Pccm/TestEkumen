@@ -20,6 +20,7 @@ distanceLineal = VelocityLineal*Time  --> where time = 1s ---> distanceLineal = 
 distanceAngular = VelocityAngular*Time  --> where time = 1s ---> distanceAngular = VelocityAngular (rad)
 
 //----------------------------------------------------EXECUTE-----------------------------------------------------
+
 1)Run ROS:
 	-open a new terminal
 	-execute the command: roscore
