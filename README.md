@@ -1,4 +1,5 @@
 ---------------------------------------------------------DESCRIPTION-----------------------------------------------
+
 The next algorithm send data type "geometry_msgs/Twist" to topic "turtle1/cmd_vel" to can be read for any subscribe.
 In this example the node "turtlesim_node"  subscribe to it.
 The data must draw a star of 8 points in the "turtlesim_node".But first the turtle must be position in the start position.
