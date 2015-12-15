@@ -13,6 +13,7 @@ state = 3; this is the state to turn right
 state = 4; this is the state to turn left
 state = 5; this is the state to stop.
 
+
 In this algorithm I use the behavior of "turtlesim_node", in the "turtlesim_node" the turtle will stop after 1 second from the last data that it receive.
 then I considered that each state must endure only 1 second, also considered velocity angular and linear constant without noise.
 distanceLineal = VelocityLineal*Time  --> where time = 1s ---> distanceLineal = VelocityLineal (m)
